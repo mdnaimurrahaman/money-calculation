@@ -1,0 +1,13 @@
+.hero-btn{
+    border: none;
+    padding: 8px 30px;
+    border-radius: 5px;
+    background-color: #0c0265;
+    color: white;
+    font-weight: 500;
+}
+.bg-design{
+    /* background-color: #0c026507; */
+    padding:20px 40px;
+    
+}
